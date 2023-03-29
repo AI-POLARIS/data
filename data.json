@@ -1,0 +1,11 @@
+{
+  page: [
+    name: "terms-policy",
+    page: [
+      {
+        name: "privacy-policy",
+        url: ""
+      }
+    ]
+  ]
+}
